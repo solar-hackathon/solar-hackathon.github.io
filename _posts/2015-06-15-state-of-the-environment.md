@@ -9,7 +9,7 @@ How does the human world impact Australia's natural biodiversity? Do our protect
 
 A hack could include information on protected areas vs vunerable specied distributions, or other representations of ALA occurrence data – e.g. changes in species conversation status; adjusted representations of presence-only occurrence data weighted for likely biases in observer effort e.g. proximity to roads, population centres.
 
-![Australian King Parrot](http://www.scienceimage.csiro.au/images/cache/detail/976_0_JM3856.jpg)
+![Australian King Parrot](http://solar-hackathon.github.io/resources/HackTheSun.jpg)
 
 **Datasets and tools**
 
