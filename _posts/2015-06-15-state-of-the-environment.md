@@ -2,7 +2,7 @@
 layout: post
 tags: ideas
 title: MERRA: Modern-Era Retrospective Analysis for Research and Applications
-photo_url: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTo7_4wZQIXQ81NrkorTsxeLLaKUsI51e9IAmwxnS6ibPvVyCQT
+photo_url: http://www.polyglot.com.au/wp-content/uploads/2015/02/Map_australia.png
 link_test: http://gmao.gsfc.nasa.gov/research/merra/
 ---
 
