@@ -1,8 +1,8 @@
 ---
 layout: post
 tags: datasets portals
-title: Water Observations from Space
-photo_url: http://www.scienceimage.csiro.au/images/cache/detail/976_0_CA12253.jpg
+title: NASA Surface meteorology and Solar Energy
+photo_url: http://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png
 ---
 
 Water Observations from Space (WOfS) is a 25-m resolution gridded dataset indicating areas where surface water has been observed over time from 1987 to 2014, calculated using GA satellite data. Each satellite image pixel is an observation; successful observations are those in which the Earth’s surface is clearly seen (unobscured by clouds for example) and quality checks are passed. Water is detected from these observations using an automated flood mapping algorithm created by Geoscience Australia.
