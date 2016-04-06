@@ -1,8 +1,8 @@
 ---
 layout: post
 tags: ideas
-title: Human impacts on Australian Biodiversity
-photo_url: http://solar-hackathon.github.io/resources/HackTheSun.jpg
+title: MERRA: Modern-Era Retrospective Analysis for Research and Applications
+photo_url: https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTo7_4wZQIXQ81NrkorTsxeLLaKUsI51e9IAmwxnS6ibPvVyCQT
 link_test: http://gmao.gsfc.nasa.gov/research/merra/
 ---
 
