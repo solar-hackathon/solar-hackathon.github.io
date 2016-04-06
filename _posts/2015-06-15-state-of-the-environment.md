@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: ideas
-title: MERRA: Modern-Era Retrospective Analysis for Research and Applications
+title: MERRA Modern-Era Retrospective Analysis for Research and Applications
 photo_url: http://www.polyglot.com.au/wp-content/uploads/2015/02/Map_australia.png
 link_test_steve: http://gmao.gsfc.nasa.gov/research/merra/
 link_test: http://csiro.au
