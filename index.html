@@ -25,7 +25,7 @@ layout: default
     {% if post.link_test %}
       <a href="{{ post.link_test  }}" class="post-excerpt{% if post.photo_url %} photo{% endif %}">
     {% else %}
-      <a href="{{ post.url }}" class="post-excerpt{% if post.photo_url %} photo{% endif %}"
+      <a href="{{ post.url        }}" class="post-excerpt{% if post.photo_url %} photo{% endif %}">
     {% endif %}
       <div class="padded-content">
         <div class="title">{{ post.title }}</div>
