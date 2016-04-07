@@ -3,8 +3,7 @@ layout: post
 tags: ideas
 title: MERRA Modern-Era Retrospective Analysis for Research and Applications
 photo_url: http://www.polyglot.com.au/wp-content/uploads/2015/02/Map_australia.png
-link_test_steve: http://gmao.gsfc.nasa.gov/research/merra/
-link_test: http://csiro.au
+link_test: http://gmao.gsfc.nasa.gov/research/merra/
 ---
 
 How does the human world impact Australia's natural biodiversity? Do our protected areas actually protect our threatened species? How can we visualize this? A State of the Environment Dynamic Dashboard could mash up human impace data (eg Australian Bureau of Statistics population data, SLIP roads and buildings) and vulnerable species data from the Atlas of Living Australia. ([Here's an example](http://www.buzzfeed.com/peteraldhous/these-maps-reveal-how-the-us-is-failing-to-protect-its-wildl) that suggests American protcted areas aren't located where they're needed).
