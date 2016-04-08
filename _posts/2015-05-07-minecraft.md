@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: datasets
-title:PVWatts Calculator
+title: PVWatts Calculator
 photo_url: http://pvwatts.nrel.gov/img/home_bg.jpg
 link_test: http://pvwatts.nrel.gov/
 ---
