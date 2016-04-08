@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: organisations
-title: MERRA Modern-Era Retrospective Analysis for Research and Applications
+title: CLEAN ENERGY REGULATOR
 photo_url: http://www.replacemypanels.com.au/images/clean-energy-regulator.jpg
 link_test: http://www.cleanenergyregulator.gov.au/Infohub/Data-and-information/default
 ---
