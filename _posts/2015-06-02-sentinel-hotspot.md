@@ -1,8 +1,9 @@
 ---
 layout: post
-tags: datasets portals
-title: Sentinel HotSpot Data
-photo_url: http://www.scienceimage.csiro.au/images/cache/detail/976_0_EM2208.jpg
+tags: ideas
+title: BOM one-minutely solar data
+photo_url: https://data.gov.au/uploads/group/20140208-072514.709318bureauofmeteorologylogo.jpg
+link_test: http://www.bom.gov.au/climate/data/oneminsolar/stations.shtml
 ---
 
 Sentinel Hotspots provides an important and consistent overview for management of fires across the country. The system was developed in the mid-2000 through a collaborative effort between Geoscience Australia, Australian Geospatial-Intelligence Organisation and CSIRO Land and Water. The system monitors hotspots nationally and provides timely hotspots information to its end-users. Sentinel has been a valuable input into the tools used by government and private agencies managing fires in Australia. 
