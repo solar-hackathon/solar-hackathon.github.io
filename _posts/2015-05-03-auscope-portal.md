@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: ideas
-title: ABS Household Energy Consmuption Survey
+title: ABS Household Energy Consumption Survey
 photo_url: http://www.burdekin.qld.gov.au/wp/media/2015/08/Australian-Bureau-of-Statistics.jpg?81eba0
 link_test: http://www.abs.gov.au/ausstats/abs@.nsf/mf/4670.0
 ---
