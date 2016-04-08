@@ -1,8 +1,9 @@
 ---
 layout: post
-tags: aus datasets portals
-title: Terrestrial Ecosystem Research Network
-<!-- photo_url: http://portal.tern.org.au/img/topics/freshwater_and_estuarine_processes.png -->
+tags: System Advisor Model
+title: System Advisor Model, performance and financial model designed to facilitate decision making for people involved in the renewable energy industry.
+photo_url: https://sam.nrel.gov/sites/default/files/content/images/overview-summary.png
+link_test: https://sam.nrel.gov/
 ---
 
 The [Terrestrial Ecosystem Research Network (TERN)](http://www.tern.org.au/What-is-TERN-pg22570.html) connects ecosystem scientists and enables them to collect, contribute, store, share and integrate data across disciplines. Collectively this increases the capacity of the Australian ecosystem science community to advance science and contribute to effective management and sustainable use of our ecosystems. 
