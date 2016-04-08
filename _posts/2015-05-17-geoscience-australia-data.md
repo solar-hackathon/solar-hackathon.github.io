@@ -1,7 +1,9 @@
 ---
 layout: post
-tags: datasets portals
-title: Geoscience Australia Data and Publications
+tags: organisations
+title: MERRA Modern-Era Retrospective Analysis for Research and Applications
+photo_url: http://www.replacemypanels.com.au/images/clean-energy-regulator.jpg
+link_test: http://www.cleanenergyregulator.gov.au/Infohub/Data-and-information/default
 ---
 
 Geoscience Australia has an extensive catalogue of data, publications, online tools, maps and videos. These cover topics from [astronomy](http://www.ga.gov.au/scientific-topics/astronomical), [earth observation and satellite imagery](http://www.ga.gov.au/scientific-topics/earth-obs), [energy](http://www.ga.gov.au/scientific-topics/energy), [geographic information](http://www.ga.gov.au/scientific-topics/geographic-information), [hazards](http://www.ga.gov.au/scientific-topics/hazards), [marine and costal](http://www.ga.gov.au/scientific-topics/marine), [minerals](http://www.ga.gov.au/scientific-topics/minerals), [positioning and navigation](http://www.ga.gov.au/scientific-topics/positioning-navigation) and [water](http://www.ga.gov.au/scientific-topics/water).
