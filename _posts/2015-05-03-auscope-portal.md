@@ -1,7 +1,9 @@
 ---
 layout: post
-tags: datasets portals
-title: AuScope Portal
+tags: ideas
+title: ABS Household Energy Consmuption Survey
+photo_url: http://www.burdekin.qld.gov.au/wp/media/2015/08/Australian-Bureau-of-Statistics.jpg?81eba0
+link_test: http://www.abs.gov.au/ausstats/abs@.nsf/mf/4670.0
 ---
 
 The AuScope portal contains a variety of Australia-wide geospatial and geoscientific datasets from the CSIRO, Geoscience Australia, the state Geological Surveys and several Australian universities.
