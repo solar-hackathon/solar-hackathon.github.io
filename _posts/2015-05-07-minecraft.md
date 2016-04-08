@@ -1,8 +1,9 @@
 ---
 layout: post
-tags: ideas
-title: An interactive geological map in Minecraft for Raspberry Pi
-photo_url: http://www.scienceimage.csiro.au/images/cache/detail/976_0_BU5630.jpg
+tags: datasets
+title:PVWatts Calculator
+photo_url: http://pvwatts.nrel.gov/img/home_bg.jpg
+link_test: http://pvwatts.nrel.gov/
 ---
 
 Produce a map generator which uses geological data from Geoscience Australia's Geological Maps and topography webservices to generate playable Minecraft maps with real geology.
